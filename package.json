@@ -2,7 +2,7 @@
   "name": "@jayxie9499/rankcard",
   "author": "JayXie",
   "license": "CC-BY-NC-4.0",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A rank card generator for Oyster leveling system.",
   "main": "index.js",
   "scripts": {
